@@ -203,7 +203,6 @@ smart_industrial_supervisor/
 │       └── procedure_M3.pdf     # M3 procedures
 ├── scripts/
 │   ├── sensor_sim.py            # IoT simulator
-│   └── convert_to_pdf.py        # TXT→PDF converter
 ├── streamlit_app.py             # Dashboard UI
 ├── requirements.txt             # Dependencies
 ├── .gitignore                   # Git exclusions
